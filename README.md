@@ -43,6 +43,12 @@ Pong completo desarrollado con **Unreal Engine 5** y **Blueprints**. Se puede ju
 | `Content/Material` | Materiales neón. |
 | `Content/Fuentes` y `Content/Sonidos` | Tipografías y efecto de sonido. |
 
+## ▶️ Cómo jugarlo
+
+1. Descarga el build para **Windows** desde su [página en itch.io](https://sandra-jimenez-ramiro.itch.io/ping-pong).
+2. Descomprime el archivo `.zip`.
+3. Ejecuta el `.exe` y elige **Jugador vs Jugador** o **Jugador vs IA**.
+
 ## ▶️ Cómo abrirlo
 
 1. Instala **Unreal Engine 5.8** desde el Epic Games Launcher.
